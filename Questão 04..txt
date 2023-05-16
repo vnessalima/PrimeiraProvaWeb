@@ -1,0 +1,3 @@
+Questão 04.
+
+Hooks são funções que ajudam quando precisamos usar o estado (state) e outras características do React em componentes funcionais sem a ultilização de uma classe. Exemplos claros e muito usados de hooks são useState e useEffect. O useState permite adicionar estado a componentes funcionais de forma a retornar valores para atualizar uma função. O useEffect permite a execução de efeitos colaterais em componentes funcionais, ele vai receber uma função de efeito e é executado quando um componente é renderizado. 
